@@ -3,7 +3,7 @@ icon: lucide/cpu
 title: Infrastructuur
 ---
 
-## Infrastructuurlaag - federatief vs. centraal
+## Infrastructuurlaag: federatief vs. centraal
 
 De infrastructuurlaag beschrijft hoe de infrastructuur technisch is opgebouwd.
 De kern bestaat uit:
