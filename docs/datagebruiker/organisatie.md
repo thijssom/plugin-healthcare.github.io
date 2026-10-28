@@ -3,7 +3,7 @@ icon: lucide/building-2
 title: Organisatie
 ---
 
-## Organisatielaag - toegang, rollen en afspraken
+## Organisatielaag: toegang, rollen en afspraken
 Met PLUGIN werken datagebruikers en datahouders samen binnen een landelijk netwerk, ondersteund door een gezamenlijke set van afspraken.
 Voor datagebruikers betekent dit:
 
