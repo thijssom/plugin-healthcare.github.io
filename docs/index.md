@@ -9,25 +9,25 @@ hide:
 
 # _Solidair met onze gezondheidsdata, voor de zorg van morgen_
 
-In Nederlandse ziekenhuizen is ontzettend veel waardevolle kennis aanwezig. Gegevens over behandelingen en uitkomsten kunnen ons helpen om de zorg van morgen te verbeteren. Maar hoe delen we deze inzichten zonder de privacy van patiënten in gevaar te brengen en zonder dat medische gegevens zomaar 'op straat' komen te liggen? Dat is waar **PLUGIN** voor staat.
+In Nederlandse ziekenhuizen is ontzettend veel waardevolle kennis aanwezig. Gegevens over behandelingen en uitkomsten kunnen ons helpen om de zorg van morgen te verbeteren. Maar hoe delen we deze gegevens en krijgen we relevante inzichten op een veilige manier, zonder de privacy van patiënten in gevaar te brengen en zonder dat medische gegevens zomaar 'op straat' komen te liggen? Om dat te realiseren is **PLUGIN** ontwikkeld.
 
 ## Wat is PLUGIN?
-PLUGIN is een data infrastructuur van en vóór de Nederlandse ziekenhuiszorg. Het is een zogeheten **Health Data Space**: een veilige, digitale omgeving waarin zorgdata hergebruikt kan worden voor wetenschappelijk onderzoek, innovatie en beleid - ook wel secundair gebruik genoemd.
+PLUGIN is een data infrastructuur van en vóór de Nederlandse ziekenhuiszorg. Het is een zogeheten **Health Data Space** waarin zorgdata veilig en gestandaardiseerd beschikbaar kan worden gesteld voor hergebruik. De data blijft daarbij decentraal bij de datahouder. Door te werken met uniforme afspraken en formaten hoeft data niet voor ieder nieuw gebruiksdoel opnieuw op een andere manier beschikbaar te worden gesteld. Zo kan dezelfde data worden hergebruikt voor bijvoorbeeld wetenschappelijk onderzoek, innovatie en beleid.
 
-Het unieke aan PLUGIN is dat het een initiatief is van en vóór de zorg zelf, met een publiek karakter zonder winstoogmerk. Daarmee willen we waarborgen dat onze zorgdata op een solidaire en betrouwbare manier wordt hergebruikt en publieke, maatschappelijke waarde creëert.
+Het unieke aan PLUGIN is dat het een initiatief is van en vóór de zorg, met een publiek karakter zonder winstoogmerk. Daarmee willen we waarborgen dat onze zorgdata op een solidaire en betrouwbare manier wordt hergebruikt en publieke, maatschappelijke waarde creëert.
 
 ### Hoe het werkt: data blijven zoveel als mogelijk bij de bron
 Traditioneel worden voor hergebruik van gezondeheidsgegevens vaak kopieën van medische dossiers naar één centrale database gestuurd. Dat brengt veel risico's met zich mee. PLUGIN draait dit om. Wij werken volgens het principe dat **data bij de bron blijven**.
 
 In plaats van de gegevens te verplaatsen naar de datagebruiker, brengen wij de onderzoeksvraag naar de data toe. De gegevens blijven veilig binnen de muren van het ziekenhuis staan. Onze technologie zorgt ervoor dat de analyse in het ziekenhuis zelf plaatsvindt en alleen de uitkomsten worden gedeeld. Een dergelijke manier van werken wordt ook wel *federatief analyseren* of *federatief leren* genoemd.
 
-In het geval dat het niet anders kan, zoals bijvoorbeeld wanneer data verschillende zorginstellingen gecombineerd moeten worden of dat de data moeten worden opgenomen in een landelijke registratie, worden de data via het PLUGIN netwerk op een veilige manier doorgestuurd naar een centrale analyse omgeving.
+In het geval dat het niet anders kan, zoals bijvoorbeeld wanneer data van verschillende zorginstellingen gecombineerd moeten worden of dat de data moeten worden opgenomen in een landelijke registratie, worden de data via het PLUGIN netwerk op een veilige manier doorgestuurd naar een centrale analyse omgeving.
 
 ### Eén centrale toegang tot data
 Het PLUGIN‑datastation is de centrale ingang voor alle dataverzoeken binnen het ziekenhuis: van aanvraag tot analyse via één gestandaardiseerde route.
 Juist door deze centrale toegang kan PLUGIN het principe van data bij de bron ondersteunen. Onderzoeksvragen worden gecontroleerd naar de juiste data gebracht, zonder dat gegevens onnodig verplaatst hoeven te worden. Zo maakt het datastation federatief analyseren in de praktijk uitvoerbaar en beheersbaar.
 
-Daarmee ontstaat één eenduidige werkwijze in plaats van losse, parallelle oplossingen. Het datastation zorgt voor overzicht, controle en herbruikbaarheid, en maakt veilige en opschaalbare inzet van data mogelijk.
+Daarmee ontstaat één eenduidige werkwijze in plaats van losse, parallelle oplossingen. Het datastation zorgt voor overzicht, controle en herbruikbaarheid en maakt het mogelijk om data veilig en efficient voor meerdere toepassingen beschikbaar te stellen.
 
 Tegelijkertijd bouwt het datastation voort op bestaande data‑ontsluitingssystemen binnen het ziekenhuis. In plaats van deze te vervangen, worden ze hergebruikt en verbonden tot één samenhangend geheel. Zo fungeert het als centraal knooppunt in de datastroom – het ‘hart van de zandloper’.
 
