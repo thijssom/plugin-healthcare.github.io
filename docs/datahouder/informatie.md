@@ -6,7 +6,7 @@ title: Informatie
 
 ## Twee niveaus van interoperabiliteit
 
-Het effectief en efficient hergebruik van gezondheidsgegevens staat of valt met het standaardiseren van de manier hoe datahouders informatie vastleggen. Hiertoe zal op twee niveaus interoperabiliteit moeten worden gerealiseerd.
+Het effectief en efficient hergebruik van gezondheidsgegevens staat of valt met het standaardiseren van de wijze waarop informatie wordt vastgelegd door datahouders. Hiertoe zal op twee niveaus interoperabiliteit moeten worden gerealiseerd.
 
 <div class="grid cards" markdown>
 
@@ -15,7 +15,7 @@ Het effectief en efficient hergebruik van gezondheidsgegevens staat of valt met 
     ---
     
     
-    Ten eerste is zogenaamde **syntactische interoperabiliteit** nodig. Dit gaat over de **vorm** en de **structuur** van het bericht, zoals bijvoorbeeld een brief.
+    Dit gaat over de **vorm** en de **structuur** van het bericht, zoals bijvoorbeeld een brief.
     Syntactische interoperabiliteit betekent dat de ontvanger de brief fysiek kan openen, herkent dat het een brief is, en dat zij de letters kan lezen (bijvoorbeeld het Latijnse alfabet).
 
     !!! quote "Analogie"
