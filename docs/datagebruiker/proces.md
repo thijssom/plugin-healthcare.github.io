@@ -3,7 +3,7 @@ icon: lucide/workflow
 title: Proces
 ---
 
-## Proceslaag - van vraag tot resultaat
+## Proceslaag: van vraag tot resultaat
 
 Binnen PLUGIN staat de vraag van jou als datagebruiker centraal. De werkwijze volgt een gestandaardiseerd proces waarin data-aanvragen en analyses gecontroleerd verlopen. Dit proces zorgt ervoor dat datagebruik reproduceerbaar, gecontroleerd en schaalbaar wordt uitgevoerd over meerdere instellingen en bestaat uit de volgende stappen.
 
