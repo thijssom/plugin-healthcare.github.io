@@ -4,7 +4,7 @@ title: Organisatie
 ---
 
 ## Organisatielaag - toegang, rollen en afspraken
-Binnen PLUGIN werken datagebruikers en datahouders samen binnen een landelijk netwerk, ondersteund door een gezamenlijke set van afspraken.
+Met PLUGIN werken datagebruikers en datahouders samen binnen een landelijk netwerk, ondersteund door een gezamenlijke set van afspraken.
 Voor datagebruikers betekent dit:
 
 - toegang via één ingang tot meerdere datastations
