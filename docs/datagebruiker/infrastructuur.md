@@ -23,4 +23,4 @@ De infrastructuur is daarnaast:
 - **open**: datastations kunnen met verschillende samenwerkingen verbonden worden
 - **herbruikbaar**: dezelfde infrastructuur ondersteunt meerdere use cases
 
-Voor datagebruikers betekent dit dat zij kunnen werken met data over instellingen heen, zonder afhankelijk te zijn van losse koppelingen of maatwerkoplossingen per ziekenhuis.
+Voor jou als datagebruiker betekent dit dat je kunt werken met data over instellingen heen, zonder afhankelijk te zijn van losse koppelingen of maatwerkoplossingen per ziekenhuis.
