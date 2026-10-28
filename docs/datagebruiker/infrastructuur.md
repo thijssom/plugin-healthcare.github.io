@@ -8,7 +8,7 @@ title: Infrastructuur
 De infrastructuurlaag beschrijft hoe de infrastructuur technisch is opgebouwd.
 De kern bestaat uit:
 
-- **Datastations bij ziekenhuizen**: waar data wordt beheerd en analyses lokaal worden uitgevoerd
+- **Datastations bij ziekenhuizen**: waar data worden beheerd en analyses lokaal worden uitgevoerd
 - **Centrale voorzieningen (processing hub)**: waar taken worden gecoördineerd en resultaten worden verzameld
 
 
